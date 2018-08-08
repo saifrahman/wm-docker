@@ -1,0 +1,9 @@
+.metadata/
+.recommenders/
+.sonarlint/
+**/.project
+**/.classpath
+**/*.meta
+**/db/
+**/.DS_Store
+**/.settings/
